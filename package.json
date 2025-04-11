@@ -1,0 +1,26 @@
+{
+  "name": "alliasquestrebooted",
+  "version": "1.0.0",
+  "description": "Y2k pixel art game using phaser",
+  "scripts": {
+    "start": "parcel index.html --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abker86/AlliaQuestRebooted.git"
+  },
+  "author": "Amanda Baker, Poorav Rawat, Jp Saini, Saksham Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abker86/AlliaQuestRebooted/issues"
+  },
+  "homepage": "https://github.com/abker86/AlliaQuestRebooted#readme",
+  "dependencies": {
+    "phaser": "^3.88.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4",
+    "process": "^0.11.10"
+  }
+}
